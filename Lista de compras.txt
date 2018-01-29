@@ -2,3 +2,5 @@
 - Ovos
 - Leite
 - Bolacha
+- Arroz
+- Feijão
