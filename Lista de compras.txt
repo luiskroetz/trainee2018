@@ -1,2 +1,4 @@
 - Farinha de trigo
 - Ovos
+- Leite
+- Bolacha
